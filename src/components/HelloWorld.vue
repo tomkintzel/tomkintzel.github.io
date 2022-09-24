@@ -15,7 +15,7 @@ const count = ref(0)
 </template>
 
 <style scoped>
-.read-the-docs {
-  color: #888;
-}
-</style>
+  a:hover {
+    filter: drop-shadow(0 0 2em #646cffaa);
+  }
+  </style>
